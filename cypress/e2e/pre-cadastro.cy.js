@@ -11,6 +11,9 @@ describe("Funcionalidade pré-cadastro", () => {
   //     cy.screenshot()
   //   });
 
+ 
+  
+
   it.only("Deve completar o pré-cadastro com sucesso", () => {
     let emailFake = faker.internet.email();
     let nomeFake = faker.name.firstName();
