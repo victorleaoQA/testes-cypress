@@ -19,5 +19,9 @@
   "homepage": "https://github.com/victorleaoQA/testes-cypress#readme",
   "devDependencies": {
     "cypress": "^10.6.0"
+  },
+  "dependencies": {
+    "faker": "^6.6.6",
+    "faker-br": "^0.4.1"
   }
 }
